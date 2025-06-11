@@ -15,9 +15,11 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ## Analysis and Insights
 ### Total Rides
 * Insights:
+* 
 ![cyclystic_analysis_apr2024_mar2025 - Copy](https://github.com/user-attachments/assets/ccd77445-0517-4dd7-88c9-7f485cecbb08)
 ### Average Ride Length
 * Insights:
+* 
 ![cyclystic_analysis_apr2024_mar2025 - Copy (2)](https://github.com/user-attachments/assets/1f7637b2-ddba-4f0b-896b-326d51723e4c)
 
 ## Recommendations
