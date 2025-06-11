@@ -5,7 +5,8 @@ This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 
 ## Goal
 Design marketing strategies aimed at converting casual riders into
 annual members.
-Discover how do annual members and casual riders use Cyclistic bikes differently.
+
+Discover how annual members and casual riders use Cyclistic bikes differently.
 ## Data Sources
 The data source is CSVs divided into months. I used the most recent 12 months of data.
 The tables show data about bike rides including bike type; membership status; start and end time, station name, station id, latitude and longitude.
