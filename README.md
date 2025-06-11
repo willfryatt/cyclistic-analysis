@@ -7,7 +7,7 @@ This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 
 annual members.
 ## Data Sources
 The data source is CSVs divided into months. I used the most recent 12 months of data.
-The tables show data about bike rides including bike type; membership status; start and end time, station name, station id, latitude and longitude.
+The tables show data about bike rides including bike type; membership status; start and end time, station name, station id, latitude and longitude. Each record represents one bike ride.
 
 https://divvy-tripdata.s3.amazonaws.com/index.html
 ## Data Cleaning and Transformation
