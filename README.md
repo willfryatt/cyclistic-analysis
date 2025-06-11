@@ -3,9 +3,8 @@
 This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 etc.) into a single dataset using UNION.
 
 ## Goal
-Discover how annual members and casual riders use Cyclistic bikes differently.
-
-Design marketing strategies aimed at converting casual riders into
+1. Discover how annual members and casual riders use Cyclistic bikes differently.
+2. Design marketing strategies aimed at converting casual riders into
 annual members.
 ## Data Sources
 The data source is CSVs divided into months. I used the most recent 12 months of data.
