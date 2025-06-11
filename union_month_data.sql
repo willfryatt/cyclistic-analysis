@@ -1,4 +1,4 @@
--- Used UNION to merge all 12 CSVs into one table --
+-- This query uses UNION to merge all 12 CSVs into one table --
 
 CREATE TABLE "tripdata_202405_202503" AS
 SELECT
