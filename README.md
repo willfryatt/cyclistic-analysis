@@ -6,7 +6,7 @@ This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 
 
 ## Data Sources
 
-## Data Cleaning and Tranformation
+## Data Cleaning and Transformation
 
 ## Analysis and Insights
 
