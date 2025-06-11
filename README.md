@@ -23,3 +23,8 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![cyclystic_analysis_apr2024_mar2025 - Copy (2)](https://github.com/user-attachments/assets/1f7637b2-ddba-4f0b-896b-326d51723e4c)
 
 ## Recommendations
+
+## Technical
+Excel:
+SQL: https://github.com/willfryatt/cyclistic-analysis/blob/main/union_month_data.sql
+Power BI:
