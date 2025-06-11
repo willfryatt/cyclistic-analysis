@@ -10,4 +10,6 @@ This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 
 
 ## Analysis and Insights
 
+https://github.com/willfryatt/cyclistic-analysis/blob/main/cyclystic_analysis_apr2024_mar2025.jpg?raw=true
+
 ## Recommendations
