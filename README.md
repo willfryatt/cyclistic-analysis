@@ -26,5 +26,5 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Technical Details
 * Excel:
-* SQL: https://github.com/willfryatt/cyclistic-analysis/blob/main/union_month_data.sql
+* SQL: [https://github.com/willfryatt/cyclistic-analysis/blob/main/union_month_data.sql](https://github.com/willfryatt/cyclistic-analysis/blob/main/union_month_query.sql)
 * Power BI:
