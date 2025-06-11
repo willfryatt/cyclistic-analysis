@@ -10,6 +10,6 @@ This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 
 
 ## Analysis and Insights
 
-![imagealt]([[[https://github.com/willfryatt/cyclistic-analysis/blob/main/cyclystic_analysis_apr2024_mar2025.jpg?raw=true](https://github.com/willfryatt/cyclistic-analysis/blob/f0bcd0a72fc77b1365253464ac9407bf11ad4e6b/cyclystic_analysis_apr2024_mar2025.jpg)](https://github.com/willfryatt/cyclistic-analysis/blob/main/cyclystic_analysis_apr2024_mar2025.jpg?raw=true)](https://github.com/willfryatt/cyclistic-analysis/blob/5e298e2b7774aa7c350b25cec5a950266d0cc64f/cyclystic_analysis_apr2024_mar2025.jpg))
+![cyclystic_analysis_apr2024_mar2025](https://github.com/user-attachments/assets/d944863e-b55e-4f01-8dc0-c5b51fbb8c12)
 
 ## Recommendations
