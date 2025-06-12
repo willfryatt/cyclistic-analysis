@@ -1,6 +1,6 @@
 # Cyclistic Analysis
 ## Overview
-This SQL script merges 12 monthly tables (e.g. tripdata_202404, tripdata_202405 etc.) into a single dataset using UNION.
+
 
 ## Goal
 1. Discover how annual members and casual riders use Cyclistic bikes differently to inform the design of marketing strategies aimed at converting casual riders into
