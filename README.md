@@ -15,12 +15,16 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ## Analysis and Insights
 ### Total Rides
 * Insights:
-* 
-![cyclystic_analysis_apr2024_mar2025 - Copy](https://github.com/user-attachments/assets/ccd77445-0517-4dd7-88c9-7f485cecbb08)
+![cyclystic_analysis_total_rides_hour](https://github.com/user-attachments/assets/8893308c-90f2-4c00-9c93-6a1198b81b73)
+![cyclystic_analysis_total_rides_day](https://github.com/user-attachments/assets/909a182f-3192-4632-848c-e0186904e156)
+![cyclystic_analysis_total_rides_month](https://github.com/user-attachments/assets/ab569cc8-204e-4585-b68d-3aa6bbdad65b)
+
 ### Average Ride Length
 * Insights:
-* 
-![cyclystic_analysis_apr2024_mar2025 - Copy (2)](https://github.com/user-attachments/assets/1f7637b2-ddba-4f0b-896b-326d51723e4c)
+![cyclystic_analysis_avg_ride_length_hour](https://github.com/user-attachments/assets/38a6becd-0d77-4630-a62d-fbeb3262ea1e)
+![cyclystic_analysis_avg_ride_length_day](https://github.com/user-attachments/assets/f2d8d67d-96be-4337-92d5-d7856966cd3f)
+![cyclystic_analysis_avg_ride_length_month](https://github.com/user-attachments/assets/515de240-afb3-4e45-be93-a7a9321be37f)
+
 
 ## Recommendations
 
