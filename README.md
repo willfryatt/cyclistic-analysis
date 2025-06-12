@@ -15,6 +15,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ## Analysis and Insights
 ### Total Rides
 * Insights:
+
 ![cyclystic_analysis_total_rides_hour](https://github.com/user-attachments/assets/c41f44f2-c11c-431b-a754-bd6c8fc9d9b4)
 
 ![cyclystic_analysis_total_rides_day](https://github.com/user-attachments/assets/909a182f-3192-4632-848c-e0186904e156)
@@ -23,6 +24,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ### Average Ride Length
 * Insights:
+
 ![cyclystic_analysis_avg_ride_length_hour](https://github.com/user-attachments/assets/38a6becd-0d77-4630-a62d-fbeb3262ea1e)
 
 ![cyclystic_analysis_avg_ride_length_day](https://github.com/user-attachments/assets/f2d8d67d-96be-4337-92d5-d7856966cd3f)
