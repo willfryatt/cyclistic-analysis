@@ -29,6 +29,8 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ### Total Rides by Month
 ![total_rides_month](https://github.com/user-attachments/assets/3e77aece-ee75-42c3-98cd-a568e540855d)
+* While members take more rides, the overall monthly pattern in the data is almost identical.
+* The total rides peak in September and trough in January.
 
 ### Average Ride Length by Hour
 * Insights:
