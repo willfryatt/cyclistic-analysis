@@ -19,7 +19,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 * The majority of member's rides are concentrated into two time frames which suggests that our service is being used by members primarily for daily commuting.
 * Casual rider's rides seem to be more dispersed, gradually increasing, peaking at 5pm, then decreasing.
 * Casuals have a preference for rides later in the day with most rides concentrated between 12pm and 7pm peaking at 5pm.
-* By filtering the data to a less popular month, i.e. January, you notice that the pattern of member's rides persists, while the amount of casual riders rides plummets. This suggests that a majority of the member population are using our service for commuting while a majority of the casual rider population are using the service for leisure.
+* By filtering the data to a less popular month, i.e. January, you notice that the pattern of member's rides persists, while the amount of casual riders taking rides plummets. This suggests that a majority of the member population are using our service for commuting while a majority of the casual rider population are using the service for leisure.
 * It would be helpful to collect additional data that divided the casuals into locals and tourists to see how they would behave differently so that we can take actions that target them more specifically.
 
 ### Total Rides by Day
