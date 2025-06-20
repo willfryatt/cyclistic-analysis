@@ -25,8 +25,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ### Total Rides by Day
 ![total_rides_day](https://github.com/user-attachments/assets/c869cb2b-1bf8-44fa-b51e-6ac4a63bef40)
 * Members take more rides than casuals.
-* Members take more rides Monday-Friday, peaking on Wednesday, while casual riders take the most rides Friday-Sunday, peaking on Saturday.
-* This seems to reinforce the idea that the primary use of our service for members is work/commute related, while casuals main focus seems to be on weekend use.
+* Members take more rides Monday-Friday, peaking on Wednesday, while casual riders take the most rides Friday-Sunday, peaking on Saturday. This appears to reinforce the idea that the primary use of our service for members is work/commute related, while casuals main focus seems to be on weekend use.
 
 ### Total Rides by Month
 ![total_rides_month](https://github.com/user-attachments/assets/3e77aece-ee75-42c3-98cd-a568e540855d)
