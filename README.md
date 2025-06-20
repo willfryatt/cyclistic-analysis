@@ -35,7 +35,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ### Average Ride Length by Day
 ![avg_ride_length_day](https://github.com/user-attachments/assets/0b84a0f3-420f-4167-b92e-b328cafe335b)
 * Casuals take longer rides than members.
-* Ride length increases Friday-Sunday, though this is more pronounced in casuals.
+* Ride length increases Friday-Sunday, though this is more pronounced in casual riders.
 
 ### Average Ride Length by Month
 ![avg_ride_length_month](https://github.com/user-attachments/assets/f2b060d4-7421-4a67-ae3c-79959ed3597d)
