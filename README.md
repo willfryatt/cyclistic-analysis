@@ -32,15 +32,9 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 * While members take more rides, the overall monthly pattern between casual riders and members is very similar.
 * The total rides peak in September and trough in January.
 
-### Average Ride Length by Hour
-* Insights:
-
-![avg_ride_length_hour](https://github.com/user-attachments/assets/d69fba9b-8ea7-4eab-ba24-21489ecd9a45)
-* Insights:
-
 ### Average Ride Length by Day
 ![avg_ride_length_day](https://github.com/user-attachments/assets/0b84a0f3-420f-4167-b92e-b328cafe335b)
-* Insights:
+
 
 ### Average Ride Length by Month
 ![avg_ride_length_month](https://github.com/user-attachments/assets/f2b060d4-7421-4a67-ae3c-79959ed3597d)
