@@ -22,18 +22,18 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![total_rides_day](https://github.com/user-attachments/assets/d6c58592-dde4-4404-8713-2dacbc3a512a)
 * Insights:
 
-![cyclystic_analysis_total_rides_month](https://github.com/user-attachments/assets/9335faea-ed43-49c5-8cae-029b4482223d)
+![total_rides_month](https://github.com/user-attachments/assets/8148f859-27c3-4d1e-9ff1-b9b0e41690d0)
 
 ### Average Ride Length
 * Insights:
 
-![cyclystic_analysis_avg_ride_length_hour](https://github.com/user-attachments/assets/e02b0efc-4507-47bf-92db-cf6f1d54367c)
+![avg_ride_length_hour](https://github.com/user-attachments/assets/f971beb4-8b80-4d71-aac0-1b11cf1406bc)
 * Insights:
 
-![cyclystic_analysis_avg_ride_length_day](https://github.com/user-attachments/assets/ddb059b5-9f95-4c48-959d-a25f3dc53c08)
+![avg_ride_length_day](https://github.com/user-attachments/assets/7705295e-44ef-4916-9fa3-c9d4509e1905)
 * Insights:
 
-![cyclystic_analysis_avg_ride_length_month](https://github.com/user-attachments/assets/454fadd9-1d41-4c26-8663-93cc60ba524a)
+![avg_ride_length_month](https://github.com/user-attachments/assets/6c8b2d6f-b7f9-4e34-a0bd-1afb28108771)
 
 ## Recommendations
 
