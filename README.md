@@ -19,7 +19,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![total_rides_hour_jan](https://github.com/user-attachments/assets/8bc536b9-69b0-40e2-acbd-baed0e2288fd)
 * Insights:
 
-![cyclystic_analysis_total_rides_day](https://github.com/user-attachments/assets/0532b358-e77a-4b54-a19a-a7649e775f2b)
+![total_rides_day](https://github.com/user-attachments/assets/d6c58592-dde4-4404-8713-2dacbc3a512a)
 * Insights:
 
 ![cyclystic_analysis_total_rides_month](https://github.com/user-attachments/assets/9335faea-ed43-49c5-8cae-029b4482223d)
