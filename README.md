@@ -22,7 +22,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![total_rides_day](https://github.com/user-attachments/assets/c869cb2b-1bf8-44fa-b51e-6ac4a63bef40)
 * Insights:
 
-![total_rides_month](https://github.com/user-attachments/assets/6fcf224a-4e75-4e39-ba78-e0a53e37f158)
+![total_rides_month](https://github.com/user-attachments/assets/3e77aece-ee75-42c3-98cd-a568e540855d)
 
 ### Average Ride Length
 * Insights:
@@ -33,7 +33,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![avg_ride_length_day](https://github.com/user-attachments/assets/0b84a0f3-420f-4167-b92e-b328cafe335b)
 * Insights:
 
-![avg_ride_length_month](https://github.com/user-attachments/assets/2d1306c7-e334-4daf-b3f1-2507ece25852)
+![avg_ride_length_month](https://github.com/user-attachments/assets/f2b060d4-7421-4a67-ae3c-79959ed3597d)
 
 ## Recommendations
 
