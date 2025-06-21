@@ -6,7 +6,7 @@
 1. Discover how annual members and casual riders use Cyclistic bikes differently to inform the design of marketing strategies aimed at converting casual riders into
 annual members.
 ## Data Sources
-The data source is CSVs divided into months. I used the most recent 12 months of data (Apr 2024-Mar 2025).
+The data source is a folder of CSV files divided into months. I used the most recent 12 months of data (Apr 2024-Mar 2025).
 The tables show data about bike rides including bike type; membership status; start and end time, station name, station id, latitude and longitude. Each record represents one bike ride.
 
 https://divvy-tripdata.s3.amazonaws.com/index.html
