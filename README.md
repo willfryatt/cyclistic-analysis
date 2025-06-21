@@ -23,11 +23,13 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![total_rides_hour](https://github.com/user-attachments/assets/86d4c670-5d06-4c82-8151-fb26944d4691)
 ![total_rides_hour_jan2](https://github.com/user-attachments/assets/fd92f1b2-8fcb-4391-819f-cfc493cd51e9)
 
+
 ### Total Rides by Day
 * Members take more rides than casual riders.
 * Members take more rides Monday-Friday, peaking on Wednesday, while casual riders take the most rides Friday-Sunday, peaking on Saturday. This appears to reinforce the idea that the primary use of our service for members is work/commute related, while casuals main focus seems to be on weekend use.
 
 ![total_rides_day](https://github.com/user-attachments/assets/c869cb2b-1bf8-44fa-b51e-6ac4a63bef40)
+
 
 ### Total Rides by Month
 * While members take more rides, the overall monthly pattern between casual riders and members is very similar.
@@ -35,11 +37,13 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ![total_rides_month](https://github.com/user-attachments/assets/3e77aece-ee75-42c3-98cd-a568e540855d)
 
+
 ### Average Ride Length by Day
 * Casual riders take longer rides than members.
 * Ride length increases Friday-Sunday, though this is more pronounced in casual riders.
 
 ![avg_ride_length_day](https://github.com/user-attachments/assets/0b84a0f3-420f-4167-b92e-b328cafe335b)
+
 
 ### Average Ride Length by Month
 * Member's ride length seems to fluctuate far less dramatically than casual riders across the year, which suggests repetitive and consistent use despite seasonal changes, whereas in casual riders, the seasons seem to dictate their ride length.
