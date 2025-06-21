@@ -43,6 +43,9 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 * Member's ride length seems to fluctuate far less dramatically than casual riders across the year, which suggests repetitive and consistent use despite seasonal changes, whereas in casual riders, the seasons seem to dictate their ride length.
 
 ## Recommendations
+1. one
+2. two
+3. three
 
 ## Technical Details
 * Excel:
