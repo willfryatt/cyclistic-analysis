@@ -3,7 +3,7 @@
 
 
 ## Goal
-1. Discover how annual members and casual riders use Cyclistic bikes differently to inform the design of marketing strategies aimed at converting casual riders into
+* Discover how annual members and casual riders use Cyclistic bikes differently to inform the design of marketing strategies aimed at converting casual riders into
 annual members.
 ## Data Sources
 The data source is a folder of CSV files divided into months. I used the most recent 12 months of data (Apr 2024-Mar 2025).
