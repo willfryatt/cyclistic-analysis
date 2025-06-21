@@ -15,7 +15,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ## Analysis and Insights
 ### Total Rides by Hour
 
-![total_rides_hour](https://github.com/user-attachments/assets/4bda583d-3ea3-4dc2-b8d8-6987da2c2fea)
+![total_rides_hour](https://github.com/user-attachments/assets/86d4c670-5d06-4c82-8151-fb26944d4691)
 ![total_rides_hour_jan2](https://github.com/user-attachments/assets/fd92f1b2-8fcb-4391-819f-cfc493cd51e9)
 * The majority of member's rides are concentrated into two time frames which suggests that our service is being used by members primarily for daily commuting.
 * Casual rider's rides seem to be more dispersed, gradually increasing, peaking at 5pm, then decreasing.
