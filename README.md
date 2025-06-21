@@ -39,6 +39,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ### Average Ride Length by Month
 ![avg_ride_length_month](https://github.com/user-attachments/assets/f2b060d4-7421-4a67-ae3c-79959ed3597d)
+* Member's ride length seems to fluctuate far less dramatically than casual riders across the year, which suggests repetitive and consistent use despite seasonal changes, whereas in casual riders, the seasons seem to dictate their ride length.
 
 ## Recommendations
 
