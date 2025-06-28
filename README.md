@@ -53,7 +53,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Recommendations
 1. **Offer an annual membership plan exclusively for weekends:** Casual rider's rides are heavily concentrated within the weekend period. Their hesitance to commit to the annual membership stems from not getting value out of the service on weekdays. Having an annual membership plan exclusively for weekends will encourage casual riders to convert to an annual membership plan, because they will be able to get the optimal amount of use from it.
-2. **Offer a full-weekend pass:** 
+2. **Offer a full-weekend pass:** Casual rider's rides are heavily concentrated within the weekend period. Offering a full-weekend pass provides convienience and an incentive to use the service more across the entire weekend.
 3. **Collect further data to discover how tourists and locals comprise the population of casual riders:** The data shows a clear pattern which suggests the majority of members are using the service primarily for commuting, however the demographic composition of casual riders is unknown. Collecting further data on the composition of casual riders will ensure more informed marketing that can accurately target certain demographics successfully.
 
 ## Technical Details
