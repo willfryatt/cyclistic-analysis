@@ -52,9 +52,9 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![avg_ride_length_month](https://github.com/user-attachments/assets/f2b060d4-7421-4a67-ae3c-79959ed3597d)
 
 ## Recommendations
-1. one
-2. two
-3. three
+1. Create a new annual membership plan exclusively for weekends.
+2. Create a new full-weekend pass.
+3. Collect further data to discover how tourists and locals comprise the population of casual riders.
 
 ## Technical Details
 * SQL: https://github.com/willfryatt/cyclistic-analysis/blob/main/union_month_query.sql
