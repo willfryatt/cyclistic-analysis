@@ -52,9 +52,9 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 ![avg_ride_length_month](https://github.com/user-attachments/assets/f2b060d4-7421-4a67-ae3c-79959ed3597d)
 
 ## Recommendations
-1. **Create a new annual membership plan exclusively for weekends:** 
+1. **Create a new annual membership plan exclusively for weekends:** Casual rider's rides are heavily concentrated within the weekend period. Their hesitance to commit to the annual membership stems from not getting value out of the service on weekdays. Having an annual membership plan exclusively for weekends will encourage casual riders to convert to a annual membership plan, because they will be able to get the optimal amount of use from it.
 2. **Create a new full-weekend pass:**
-3. **Collect further data to discover how tourists and locals comprise the population of casual riders:**
+3. **Collect further data to discover how tourists and locals comprise the population of casual riders:** The data shows a clear pattern which suggests the majority of members are using the service primarily for commuting, however the demographic composition of casual riders is unknown. Collecting further data on the composition of casual riders will ensure more informed marketing that can accurately target certain demographics successfully.
 
 ## Technical Details
 * SQL: https://github.com/willfryatt/cyclistic-analysis/blob/main/union_month_query.sql
