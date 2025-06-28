@@ -1,6 +1,7 @@
 # Cyclistic Analysis
 ## Overview
-
+This case study follows analysis for Cyclistic, a fictional bike-share company based in Chicago. The company currently uses these pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders.
+Customers who purchase annual memberships are Cyclistic members. Cyclistic's finance analysts have concluded that annual members are much more profitable than casual riders. The director of marketing wants to maximise the number of annual members through converting casual riders.
 
 ## Goal
 * Discover how annual members and casual riders use Cyclistic bikes differently to inform the design of marketing strategies aimed at converting casual riders into
