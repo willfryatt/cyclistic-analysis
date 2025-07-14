@@ -1,4 +1,4 @@
--- This query uses UNION to merge 12 monthly tables (e.g. tripdata_202404, tripdata_202405 etc.) into one dataset.
+-- This query uses UNION to merge 12 monthly tables (e.g. tripdata_202404, tripdata_202405 etc.) into one table.
 
 CREATE TABLE "tripdata_202405_202503" AS
 SELECT
