@@ -14,7 +14,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202404
+  tripdata_202404
+
 UNION
 
 SELECT
@@ -30,7 +31,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202405
+  tripdata_202405
+
 UNION
 
 SELECT
@@ -46,7 +48,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202406
+  tripdata_202406
+
 UNION
 
 SELECT
@@ -62,7 +65,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202407
+  tripdata_202407
+
 UNION
 
 SELECT
@@ -78,7 +82,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202408
+  tripdata_202408
+
 UNION
 
 SELECT
@@ -94,7 +99,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202409
+  tripdata_202409
+
 UNION
 
 SELECT
@@ -110,7 +116,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202410
+  tripdata_202410
+
 UNION
 
 SELECT
@@ -126,7 +133,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202411
+  tripdata_202411
+
 UNION
 
 SELECT
@@ -142,7 +150,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202412
+  tripdata_202412
+
 UNION
 
 SELECT
@@ -158,7 +167,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202501
+  tripdata_202501
+
 UNION
 
 SELECT
@@ -174,7 +184,8 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202502
+  tripdata_202502
+
 UNION
 
 SELECT
@@ -190,4 +201,4 @@ SELECT
   day_of_week_no,
   month_no
 FROM
-tripdata_202503;
+  tripdata_202503;
